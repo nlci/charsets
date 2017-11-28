@@ -51,6 +51,7 @@ wscript text eol=lf
 *.plist text eol=lf
 
 # Declare all files that are truly binary and should not be modified.
+*.zip binary
 *.png binary
 *.jpg binary
 *.vfb binary
