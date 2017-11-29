@@ -1,0 +1,9 @@
+SHELL   = /bin/sh
+
+charsets=nlci-taml.py
+
+all:
+	install -m 644 $(charsets) "$(HOME)/builds/pyfontaine/pyfontaine/fontaine/charsets/internals"
+
+clean:
+	rm -f *~
