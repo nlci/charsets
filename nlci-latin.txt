@@ -1,0 +1,58 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Quotations and text marking
+2308 # LEFT CEILING
+2309 # RIGHT CEILING
+230A # LEFT FLOOR - request from Dan
+230B # RIGHT FLOOR - request from Dan
+231C # TOP LEFT CORNER
+231D # TOP RIGHT CORNER
+231E # BOTTOM LEFT CORNER - used by Steve
+231F # BOTTOM RIGHT CORNER - used by Steve
+# 2E22 # TOP LEFT HALF BRACKET - not in Charis
+# 2E23 # TOP RIGHT HALF BRACKET - not in Charis
+# 2E24 # BOTTOM LEFT HALF BRACKET - request from Steve - not in Charis
+# 2E25 # BOTTOM RIGHT HALF BRACKET - request from Steve - not in Charis
+
+# Footnote callers
+# 2756 # BLACK DIAMOND MINUS WHITE X - suggested by Dan - not in Charis
+
+# Glottal
+02BC # MODIFIER LETTER APOSTROPHE
+02C0 # MODIFIER LETTER GLOTTAL STOP
+#A78B # LATIN CAPITAL LETTER SALTILLO
+A78C # LATIN SMALL LETTER SALTILLO
+#0241 # LATIN CAPITAL LETTER GLOTTAL STOP - maybe only for Latin orthographies
+#0242 # LATIN SMALL LETTER GLOTTAL STOP - maybe only for Latin orthographies
+
+# Misc
+2423 # OPEN BOX
+
+# Variation Selectors
+#E0100..E01EF # VARIATION SELECTOR-17..VARIATION SELECTOR-256 - non BMP characters not handled
+
+# Superscripted footnote callers
+2070 # SUPERSCRIPT ZERO
+207B # SUPERSCRIPT MINUS
+207D # SUPERSCRIPT LEFT PARENTHESIS
+207E # SUPERSCRIPT RIGHT PARENTHESIS
+2074..2079 # SUPERSCRIPT FOUR..SUPERSCRIPT NINE
