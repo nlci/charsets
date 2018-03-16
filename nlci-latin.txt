@@ -32,6 +32,8 @@
 # 2E23 # TOP RIGHT HALF BRACKET - not in Charis
 # 2E24 # BOTTOM LEFT HALF BRACKET - request from Steve - not in Charis
 # 2E25 # BOTTOM RIGHT HALF BRACKET - request from Steve - not in Charis
+F130
+F131
 
 # Footnote callers
 # 2756 # BLACK DIAMOND MINUS WHITE X - suggested by Dan - not in Charis
@@ -41,11 +43,14 @@
 02C0 # MODIFIER LETTER GLOTTAL STOP
 #A78B # LATIN CAPITAL LETTER SALTILLO
 A78C # LATIN SMALL LETTER SALTILLO
-#0241 # LATIN CAPITAL LETTER GLOTTAL STOP - maybe only for Latin orthographies
-#0242 # LATIN SMALL LETTER GLOTTAL STOP - maybe only for Latin orthographies
+0241 # LATIN CAPITAL LETTER GLOTTAL STOP - maybe only for Latin orthographies
+0242 # LATIN SMALL LETTER GLOTTAL STOP - maybe only for Latin orthographies
 
 # Misc
 2423 # OPEN BOX
+
+# MacRoman not in Codepage 1252
+03A9 # GREEK CAPITAL LETTER OMEGA
 
 # Variation Selectors
 #E0100..E01EF # VARIATION SELECTOR-17..VARIATION SELECTOR-256 - non BMP characters not handled

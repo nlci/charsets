@@ -32,6 +32,8 @@ class Charset:
         # 0x2E23,  # TOP RIGHT HALF BRACKET - not in Charis
         # 0x2E24,  # BOTTOM LEFT HALF BRACKET - request from Steve - not in Charis
         # 0x2E25,  # BOTTOM RIGHT HALF BRACKET - request from Steve - not in Charis
+        0xF130,
+        0xF131,
 
         # Footnote callers
         # 0x2756,  # BLACK DIAMOND MINUS WHITE X - suggested by Dan - not in Charis
@@ -41,12 +43,12 @@ class Charset:
         0x02C0,  # MODIFIER LETTER GLOTTAL STOP
         # 0xA78B,  # LATIN CAPITAL LETTER SALTILLO
         0xA78C,  # LATIN SMALL LETTER SALTILLO
-        # 0x0241,  # LATIN CAPITAL LETTER GLOTTAL STOP - maybe only for Latin orthographies
-        # 0x0242,  # LATIN SMALL LETTER GLOTTAL STOP - maybe only for Latin orthographies
+        0x0241,  # LATIN CAPITAL LETTER GLOTTAL STOP - maybe only for Latin orthographies
+        0x0242,  # LATIN SMALL LETTER GLOTTAL STOP - maybe only for Latin orthographies
 
         # Misc
-        0x2423 # OPEN BOX
-        
+        0x2423,  # OPEN BOX
+
         # MacRoman not in Codepage 1252
         0x03A9,  # GREEK CAPITAL LETTER OMEGA
 
@@ -59,4 +61,4 @@ class Charset:
         0x207D,  # SUPERSCRIPT LEFT PARENTHESIS
         0x207E,  # SUPERSCRIPT RIGHT PARENTHESIS
     ] + \
-        list(xrange(0x2074, 0x2079)), # SUPERSCRIPT FOUR..SUPERSCRIPT NINEgit
+        list(xrange(0x2074, 0x2079)) # SUPERSCRIPT FOUR..SUPERSCRIPT NINE
