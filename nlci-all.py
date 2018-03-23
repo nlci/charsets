@@ -2,7 +2,7 @@
 
 
 class Charset:
-    common_name = 'NLCI: All fonts'
+    common_name = 'NLCI-All fonts'
     native_name = 'Characters for all Indic fonts'
     abbreviation = 'Indic'
     key = 0x00E9
@@ -32,8 +32,8 @@ class Charset:
         # 0x2E23,  # TOP RIGHT HALF BRACKET - not in Charis
         # 0x2E24,  # BOTTOM LEFT HALF BRACKET - request from Steve - not in Charis
         # 0x2E25,  # BOTTOM RIGHT HALF BRACKET - request from Steve - not in Charis
-        0xF130,
-        0xF131,
+        0xF130,  # FONT BASELINE AND SIDE-BEARING MARKER LEFT
+        0xF131,  # FONT BASELINE AND SIDE-BEARING MARKER RIGHT
 
         # Footnote callers
         # 0x2756,  # BLACK DIAMOND MINUS WHITE X - suggested by Dan - not in Charis
@@ -61,4 +61,4 @@ class Charset:
         0x207D,  # SUPERSCRIPT LEFT PARENTHESIS
         0x207E,  # SUPERSCRIPT RIGHT PARENTHESIS
     ] + \
-        list(xrange(0x2074, 0x2079)) # SUPERSCRIPT FOUR..SUPERSCRIPT NINE
+        list(xrange(0x2074, 0x2079+1))  # SUPERSCRIPT FOUR..SUPERSCRIPT NINE

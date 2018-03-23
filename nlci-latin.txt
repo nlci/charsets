@@ -32,8 +32,8 @@
 # 2E23 # TOP RIGHT HALF BRACKET - not in Charis
 # 2E24 # BOTTOM LEFT HALF BRACKET - request from Steve - not in Charis
 # 2E25 # BOTTOM RIGHT HALF BRACKET - request from Steve - not in Charis
-F130
-F131
+F130 # FONT BASELINE AND SIDE-BEARING MARKER LEFT
+F131 # FONT BASELINE AND SIDE-BEARING MARKER RIGHT
 
 # Footnote callers
 # 2756 # BLACK DIAMOND MINUS WHITE X - suggested by Dan - not in Charis

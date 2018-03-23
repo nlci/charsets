@@ -2,7 +2,7 @@
 
 
 class Charset:
-    common_name = 'NRSI: All fonts'
+    common_name = 'NRSI-All fonts'
     native_name = 'Recommended characters for Non-Roman fonts'
     abbreviation = 'Latn'
     key = 0x00E9
@@ -302,5 +302,4 @@ class Charset:
         0xFEFF,
         0xFFFC,
         0xFFFD,
-        0xFFFF,
     ]
