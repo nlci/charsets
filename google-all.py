@@ -7,8 +7,8 @@ class Charset:
     abbreviation = 'Google'
     key = 0x00C0
     glyphs = [
-        0x0000,  # .null
-        0x000D,  # nonmarkingreturn
+        # 0x0000,  # .null
+        # 0x000D,  # nonmarkingreturn
         0x0020,  # SPACE
         0x0021,  # EXCLAMATION MARK
         0x0022,  # QUOTATION MARK

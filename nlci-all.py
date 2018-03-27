@@ -18,6 +18,7 @@ class Charset:
         0x0953,  # DEVANAGARI GRAVE ACCENT
         0x0954,  # DEVANAGARI ACUTE ACCENT
         0x1CDA,  # VEDIC TONE DOUBLE SVARITA
+        0x1CDC,  # VEDIC TONE KATHAKA ANUDATTA
 
         # Quotations and text marking
         0x2308,  # LEFT CEILING
