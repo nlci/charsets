@@ -1,3 +1,5 @@
+lvocalicmatra
+llvocalicmatra
 lvocalicmatra.alt
 llvocalicmatra.alt
 na_virama
@@ -27,4 +29,4 @@ nbsp.knda
 quoteleft.knda
 quoteright.knda
 quotedblleft.knda
-quoterdblight.knda
+quotedblright.knda
