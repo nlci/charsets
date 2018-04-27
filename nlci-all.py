@@ -19,6 +19,10 @@ class Charset:
         0x0954,  # DEVANAGARI ACUTE ACCENT
         0x1CDA,  # VEDIC TONE DOUBLE SVARITA
         0x1CDC,  # VEDIC TONE KATHAKA ANUDATTA
+        0x1CDD,  # VEDIC TONE DOT BELOW
+        0x1CDE,  # VEDIC TONE TWO DOTS BELOW
+        0x1CDF,  # VEDIC TONE THREE DOTS BELOW
+        0x1CF5,  # VEDIC SIGN JIHVAMULIYA
 
         # Quotations and text marking
         0x2308,  # LEFT CEILING
