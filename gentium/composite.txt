@@ -1,3 +1,5 @@
+# Copyright 2018 NLCI (http://www.nlci.in/fonts/)
+# Apache License v2.0
 02D7
 2219 # also included by NRSI
 030A

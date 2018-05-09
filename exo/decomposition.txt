@@ -1,3 +1,5 @@
+# Copyright 2018 NLCI (http://www.nlci.in/fonts/)
+# Apache License v2.0
 02C6
 02C7
 02DC
