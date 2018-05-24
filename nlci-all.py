@@ -50,8 +50,9 @@ class Charset:
         0x02C0,  # MODIFIER LETTER GLOTTAL STOP
         # 0xA78B,  # LATIN CAPITAL LETTER SALTILLO
         0xA78C,  # LATIN SMALL LETTER SALTILLO
-        0x0241,  # LATIN CAPITAL LETTER GLOTTAL STOP - maybe only for Latin orthographies
+        # 0x0241,  # LATIN CAPITAL LETTER GLOTTAL STOP - maybe only for Latin orthographies
         0x0242,  # LATIN SMALL LETTER GLOTTAL STOP - maybe only for Latin orthographies
+        0x0294,  # LATIN LETTER GLOTTAL STOP
 
         # Misc
         0x2423,  # OPEN BOX
