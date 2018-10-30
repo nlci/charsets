@@ -81,5 +81,6 @@ class Charset:
         0x0BF8,  # TAMIL AS ABOVE SIGN
         0x0BF9,  # TAMIL RUPEE SIGN
         0x0BFA,  # TAMIL NUMBER SIGN
+        0x1133B,  # COMBINING BINDU BELOW
         0x1133C,  # GRANTHA SIGN NUKTA
     ]
