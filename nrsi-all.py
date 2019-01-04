@@ -1,6 +1,6 @@
 # -*- coding: utf8 -*-
 
-# Copyright 2018 NLCI (http://www.nlci.in/fonts/)
+# Copyright 2018-2019 NLCI (http://www.nlci.in/fonts/)
 # Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) license
 
 class Charset:
