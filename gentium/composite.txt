@@ -1,8 +1,0 @@
-# Copyright 2018-2019 NLCI (http://www.nlci.in/fonts/)
-# Apache License v2.0
-02D7
-2219 # also included by NRSI
-030A
-03A9 # also included by NLCI
-03A0
-01A9

@@ -1,3 +1,0 @@
-# Copyright 2018-2019 NLCI (http://www.nlci.in/fonts/)
-# Apache License v2.0
-20B9 # INDIAN RUPEE SIGN
