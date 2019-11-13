@@ -9,6 +9,8 @@ class Charset:
     abbreviation = 'LatnRTL'
     key = 0x00E9
     glyphs = [
+        0x200E,
+        0x200F,
         0x202A,
         0x202B,
         0x202C,
