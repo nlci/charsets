@@ -299,10 +299,10 @@ FFFD
 231D # TOP RIGHT CORNER
 231E # BOTTOM LEFT CORNER - used by Steve
 231F # BOTTOM RIGHT CORNER - used by Steve
-# 2E22 # TOP LEFT HALF BRACKET - not in Charis
-# 2E23 # TOP RIGHT HALF BRACKET - not in Charis
-# 2E24 # BOTTOM LEFT HALF BRACKET - request from Steve - not in Charis
-# 2E25 # BOTTOM RIGHT HALF BRACKET - request from Steve - not in Charis
+2E22 # TOP LEFT HALF BRACKET - now in Charis
+2E23 # TOP RIGHT HALF BRACKET - now in Charis
+2E24 # BOTTOM LEFT HALF BRACKET - request from Steve - now in Charis
+2E25 # BOTTOM RIGHT HALF BRACKET - request from Steve - now in Charis
 F130 # FONT BASELINE AND SIDE-BEARING MARKER LEFT
 F131 # FONT BASELINE AND SIDE-BEARING MARKER RIGHT
 # Footnote callers

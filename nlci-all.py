@@ -35,10 +35,10 @@ class Charset:
         0x231D,  # TOP RIGHT CORNER
         0x231E,  # BOTTOM LEFT CORNER - used by Steve
         0x231F,  # BOTTOM RIGHT CORNER - used by Steve
-        # 0x2E22,  # TOP LEFT HALF BRACKET - not in Charis
-        # 0x2E23,  # TOP RIGHT HALF BRACKET - not in Charis
-        # 0x2E24,  # BOTTOM LEFT HALF BRACKET - request from Steve - not in Charis
-        # 0x2E25,  # BOTTOM RIGHT HALF BRACKET - request from Steve - not in Charis
+        0x2E22,  # TOP LEFT HALF BRACKET - now in Charis
+        0x2E23,  # TOP RIGHT HALF BRACKET - now in Charis
+        0x2E24,  # BOTTOM LEFT HALF BRACKET - request from Steve - now in Charis
+        0x2E25,  # BOTTOM RIGHT HALF BRACKET - request from Steve - now in Charis
         0xF130,  # FONT BASELINE AND SIDE-BEARING MARKER LEFT
         0xF131,  # FONT BASELINE AND SIDE-BEARING MARKER RIGHT
 
