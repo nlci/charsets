@@ -10,4 +10,4 @@ class Charset:
     key = 0x0915
     glyphs = \
         [0x0310] + \
-        list(xrange(0x0900, 0x097F+1))
+        list(range(0x0900, 0x097F+1))
