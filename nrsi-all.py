@@ -1,7 +1,7 @@
 # -*- coding: utf8 -*-
 
-# Copyright 2018-2019 NLCI (http://www.nlci.in/fonts/)
-# Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) license
+# Copyright 2018-2020 NLCI (http://www.nlci.in/fonts/)
+# MIT license
 
 class Charset:
     common_name = 'NRSI-All fonts'
@@ -211,7 +211,6 @@ class Charset:
         0x0192,
         0x02C6,
         0x02C7,
-        0x02D0,
         0x02D8,
         0x02D9,
         0x02DA,
@@ -259,6 +258,7 @@ class Charset:
         0x203A,
         0x2044,
         0x2060,
+        0x2074,
         0x20AC,
         0x2122,
         0x2126,
@@ -266,6 +266,8 @@ class Charset:
         0x2206,
         0x220F,
         0x2211,
+        0x2212,
+        0x2215,
         0x2219,
         0x221A,
         0x221E,
@@ -274,8 +276,11 @@ class Charset:
         0x2260,
         0x2264,
         0x2265,
+        0x2423,
         0x25CA,
         0x25CC,
+        0xF130,
+        0xF131,
         0xFB01,
         0xFB02,
         0xFE00,

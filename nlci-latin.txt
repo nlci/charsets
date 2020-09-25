@@ -1,4 +1,4 @@
-# Copyright 2018-2019 NLCI (http://www.nlci.in/fonts/)
+# Copyright 2018-2020 NLCI (http://www.nlci.in/fonts/)
 # Apache License v2.0
 
 
@@ -32,8 +32,6 @@
 2E23 # TOP RIGHT HALF BRACKET - now in Charis
 2E24 # BOTTOM LEFT HALF BRACKET - request from Steve - now in Charis
 2E25 # BOTTOM RIGHT HALF BRACKET - request from Steve - now in Charis
-F130 # FONT BASELINE AND SIDE-BEARING MARKER LEFT
-F131 # FONT BASELINE AND SIDE-BEARING MARKER RIGHT
 
 # Footnote callers
 # 2756 # BLACK DIAMOND MINUS WHITE X - suggested by Dan - not in Charis
@@ -46,9 +44,6 @@ A78C # LATIN SMALL LETTER SALTILLO
 # 0241 # LATIN CAPITAL LETTER GLOTTAL STOP - maybe only for Latin orthographies
 0242 # LATIN SMALL LETTER GLOTTAL STOP - maybe only for Latin orthographies
 0294 # LATIN LETTER GLOTTAL STOP
-
-# Misc
-2423 # OPEN BOX
 
 # MacRoman not in Codepage 1252
 03A9 # GREEK CAPITAL LETTER OMEGA

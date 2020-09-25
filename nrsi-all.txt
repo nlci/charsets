@@ -1,5 +1,5 @@
-# Copyright 2018-2019 NLCI (http://www.nlci.in/fonts/)
-# Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) license
+# Copyright 2018-2020 NLCI (http://www.nlci.in/fonts/)
+# MIT license
 0020
 0021
 0022
@@ -202,7 +202,6 @@
 0192
 02C6
 02C7
-02D0
 02D8
 02D9
 02DA
@@ -225,8 +224,6 @@
 200B
 200C
 200D
-200E
-200F
 2010
 2011
 2012
@@ -246,17 +243,13 @@
 2027
 2028
 2029
-202A
-202B
-202C
-202D
-202E
 202F
 2030
 2039
 203A
 2044
 2060
+2074
 20AC
 2122
 2126
@@ -264,6 +257,8 @@
 2206
 220F
 2211
+2212
+2215
 2219
 221A
 221E
@@ -272,8 +267,11 @@
 2260
 2264
 2265
+2423
 25CA
 25CC
+F130
+F131
 FB01
 FB02
 FE00

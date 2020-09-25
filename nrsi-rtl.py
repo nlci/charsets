@@ -1,7 +1,7 @@
 # -*- coding: utf8 -*-
 
-# Copyright 2018-2019 NLCI (http://www.nlci.in/fonts/)
-# Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) license
+# Copyright 2018-2020 NLCI (http://www.nlci.in/fonts/)
+# MIT license
 
 class Charset:
     common_name = 'NRSI-RTL fonts'
@@ -16,4 +16,10 @@ class Charset:
         0x202C,
         0x202D,
         0x202E,
+        0x2066,
+        0x2067,
+        0x2068,
+        0x2069,
+        0x206C,
+        0x206D,
     ]
