@@ -9,8 +9,11 @@ class Charset:
     abbreviation = 'Indic'
     key = 0x00E9
     glyphs = [
-        # Indic
+        # Latin
+        0x02D0,  # MODIFIER LETTER TRIANGULAR COLON
         0x20A8,  # RUPEE SIGN
+
+        # Indic
         0x20B9,  # INDIAN RUPEE SIGN
         0x0964,  # DEVANAGARI DANDA
         0x0965,  # DEVANAGARI DOUBLE DANDA
