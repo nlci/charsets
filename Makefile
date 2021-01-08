@@ -1,4 +1,4 @@
-# Copyright 2017-2020 NLCI (http://www.nlci.in/fonts/)
+# Copyright 2017-2021 NLCI (http://www.nlci.in/fonts/)
 # Apache License v2.0
 
 SHELL   = /bin/sh
