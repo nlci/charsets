@@ -3,7 +3,7 @@
 
 SHELL   = /bin/sh
 
-charsets=nlci-deva.py nlci-deva-ext.py nlci-orya.py nlci-taml.py nlci-knda.py nlci-indic-num.py nlci-vedic.py nlci-all.py nrsi-all.py nrsi-rtl.py google-all.py
+charsets=nlci-deva.py nlci-deva-ext.py nlci-mlym.py nlci-taml.py nlci-knda.py nlci-indic-num.py nlci-vedic.py nlci-all.py nrsi-all.py nrsi-rtl.py google-all.py
 
 all:
 	install -m 600 $(charsets) "$(HOME)/builds/pyfontaine/fontaine/charsets/internals"
