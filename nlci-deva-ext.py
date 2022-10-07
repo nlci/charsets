@@ -9,4 +9,5 @@ class Charset:
     abbreviation = 'DevaExt'
     key = 0xA8F2
     glyphs = \
-        list(range(0xA8E0, 0xA8FF+1))
+        list(range(0xA8E0, 0xA8FF+1)) +\
+        list(range(0x11B00, 0x11B09+1))
