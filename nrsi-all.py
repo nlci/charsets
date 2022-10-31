@@ -1,6 +1,6 @@
 # -*- coding: utf8 -*-
 
-# Copyright 2018-2020 NLCI (http://www.nlci.in/fonts/)
+# Copyright 2018-2022 NLCI (http://www.nlci.in/fonts/)
 # MIT license
 
 class Charset:
@@ -217,6 +217,14 @@ class Charset:
         0x02DB,
         0x02DC,
         0x02DD,
+        0x0300,
+        0x0301,
+        0x0302,
+        0x0303,
+        0x0308,
+        0x030A,
+        0x030C,
+        0x0327,
         0x034F,
         0x03C0,
         0x2000,

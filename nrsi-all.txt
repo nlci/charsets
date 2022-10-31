@@ -1,4 +1,4 @@
-# Copyright 2018-2020 NLCI (http://www.nlci.in/fonts/)
+# Copyright 2018-2022 NLCI (http://www.nlci.in/fonts/)
 # MIT license
 0020
 0021
@@ -208,6 +208,14 @@
 02DB
 02DC
 02DD
+0300
+0301
+0302
+0303
+0308
+030A
+030C
+0327
 034F
 03C0
 2000

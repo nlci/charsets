@@ -1,6 +1,6 @@
 # -*- coding: utf8 -*-
 
-# Copyright 2021 NLCI (http://www.nlci.in/fonts/)
+# Copyright 2021-2022 NLCI (http://www.nlci.in/fonts/)
 # Apache License v2.0
 
 class Charset:
@@ -9,6 +9,10 @@ class Charset:
     abbreviation = 'Mlym'
     key = 0x0D15
     glyphs = [
+        0x0951,  # DEVANAGARI STRESS SIGN UDATTA
+        0x0952,  # DEVANAGARI STRESS SIGN ANUDATTA
+        0x0964,  # DEVANAGARI DANDA
+        0x0965,  # DEVANAGARI DOUBLE DANDA
         0x0D00,  # MALAYALAM SIGN COMBINING ANUSVARA ABOVE
         0x0D01,  # MALAYALAM SIGN CANDRABINDU
         0x0D02,  # MALAYALAM SIGN ANUSVARA
